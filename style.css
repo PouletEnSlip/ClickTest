@@ -9,11 +9,11 @@ html {
 
 h1 {
 	font-size: 40px;
-	color: #fff;
 	text-shadow: 2px 2px 4px black;
 }
 
 a {
+	color: #fff;
 	text-decoration: none;
 }
 
